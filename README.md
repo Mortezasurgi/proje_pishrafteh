@@ -25,17 +25,39 @@ This project is a web application that provides users with a responsive and user
 
 To install this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Mortezasurgi/proje_pishrafteh`
-2. Navigate to the project directory: `proje_pishrafteh`
-3. Install dependencies: `npm install`
+1. Clone the repository:
+    ```
+   git clone https://github.com/Mortezasurgi/proje_pishrafteh.git
+    ```
+
+
+2. Install Qt: 
+    ```
+    sudo apt-get install qt5-qmake
+    ```
+
+3. Install prerequisites:
+    ```
+    sudo apt-get install libqt5core5a libqt5gui5 libqt5sql5 libqt5widgets5 libqt5svg5-dev libqt5xmlpatterns5-dev qt5-qmake qtbase5-dev-tools qttools5-dev-tools qttools5-dev qt5-image-formats-plugins
+    ```
+4. Build the project: 
+    ```
+    qmake -project
+    qmake
+    make
+    ```
+5. Run the project: 
+    ```
+    ./project
+    ```
 
 ## Usage
 
 To use this project, follow these steps:
 
-1. Navigate to the project directory: `cd proje_pishrafteh`
-2. Start the server: `npm start`
-3. Open a web browser and go to `http://localhost:3000`
+1. Launch the program.
+2. Follow the instructions on the screen.
+3. Enjoy!
 
 ## Contributing
 
