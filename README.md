@@ -25,15 +25,15 @@ This project is a web application that provides users with a responsive and user
 
 To install this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
-2. Navigate to the project directory: `cd project`
+1. Clone the repository: `git clone https://github.com/Mortezasurgi/proje_pishrafteh`
+2. Navigate to the project directory: `proje_pishrafteh`
 3. Install dependencies: `npm install`
 
 ## Usage
 
 To use this project, follow these steps:
 
-1. Navigate to the project directory: `cd project`
+1. Navigate to the project directory: `cd proje_pishrafteh`
 2. Start the server: `npm start`
 3. Open a web browser and go to `http://localhost:3000`
 
