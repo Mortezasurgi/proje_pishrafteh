@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>show_eye.png</file>
+        <file>hide_eye.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
